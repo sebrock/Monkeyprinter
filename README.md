@@ -1,14 +1,5 @@
 # ![image](https://user-images.githubusercontent.com/156824/131147046-25e04d99-af7b-4847-857b-1e4389fc47fd.png)
 
-<p align="center">
-    By the <a href="https://memetic.institute" target="_blank">Institute for Memetic Research & Development</a>
-</p>
-
-<p align="center">
-    <a href="https://travis-ci.org/memetic-institute/The-Fed" target="_blank">
-        <img src="https://travis-ci.org/memetic-institute/The-Fed.svg" alt="Build Status" />
-    </a>
-</p>
 
 ### [🕹 Live Game](https://thefed.app)
 
@@ -19,3 +10,7 @@
 MIT License
 
 ### [📺 Learn more about the Federal Reserve System »](https://youtu.be/mQUhJTxK5mA?t=138)
+
+<p align="center">
+    Original game developed By the <a href="https://memetic.institute" target="_blank">Institute for Memetic Research & Development</a>
+</p>
