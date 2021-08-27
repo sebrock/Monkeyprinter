@@ -1,4 +1,4 @@
-# [![The Fed](docs/banner.png)](https://thefed.app)
+# ![image](https://user-images.githubusercontent.com/156824/131147046-25e04d99-af7b-4847-857b-1e4389fc47fd.png)
 
 <p align="center">
     By the <a href="https://memetic.institute" target="_blank">Institute for Memetic Research & Development</a>
